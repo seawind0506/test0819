@@ -1,0 +1,1172 @@
+
+
+[INFO ] 2018-08-05 18:07:06,336 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-05 18:07:06,406 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7c16905e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a2d45ba, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2a5ca609, org.springframework.test.context.support.DirtiesContextTestExecutionListener@20e2cbe0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@68be2bc2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@28feb3fa]
+
+
+[INFO ] 2018-08-05 18:07:06,740 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-05 18:07:07,142 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-05 18:07:07,241 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-05 18:07:07,473 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-05 18:07:07,672 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:07:07 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:07:08,146 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-05 18:07:08,150 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-05 18:07:10,851 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:80)
+开始------------------------------
+
+
+[INFO ] 2018-08-05 18:07:10,898 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:82)
+main: 0 开始创建...
+
+
+[INFO ] 2018-08-05 18:07:10,922 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:87)
+结束------------------------------
+
+
+[INFO ] 2018-08-05 18:07:11,004 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:50)
+Thread-2: 0 开始等待...
+
+
+[INFO ] 2018-08-05 18:07:11,007 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:52)
+Thread-2: 0 开始运行...
+
+
+[INFO ] 2018-08-05 18:07:11,019 method:org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:960)
+Closing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:07:07 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:07:44,831 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-05 18:07:44,910 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7c16905e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a2d45ba, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2a5ca609, org.springframework.test.context.support.DirtiesContextTestExecutionListener@20e2cbe0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@68be2bc2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@28feb3fa]
+
+
+[INFO ] 2018-08-05 18:07:45,248 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-05 18:07:45,597 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-05 18:07:45,706 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-05 18:07:45,940 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-05 18:07:46,138 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:07:46 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:07:46,520 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-05 18:07:46,521 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-05 18:07:49,310 method:cn.wind.service.impl.ItemServiceImpl.getItemById(ItemServiceImpl.java:51)
+==================get from cache============================
+
+
+[INFO ] 2018-08-05 18:07:50,046 method:cn.wind.controller.ItemControllerTest.testGetItemById(ItemControllerTest.java:72)
+936920==========================================================================
+
+
+[INFO ] 2018-08-05 18:07:50,048 method:cn.wind.controller.ItemControllerTest.testGetItemById(ItemControllerTest.java:73)
+----------------------------------hello-------------------------------------------
+
+
+[INFO ] 2018-08-05 18:07:50,060 method:org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:960)
+Closing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:07:46 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:15:25,301 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-05 18:15:25,378 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7c16905e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a2d45ba, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2a5ca609, org.springframework.test.context.support.DirtiesContextTestExecutionListener@20e2cbe0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@68be2bc2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@28feb3fa]
+
+
+[INFO ] 2018-08-05 18:15:25,701 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-05 18:15:26,075 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-05 18:15:26,353 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-05 18:15:26,702 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-05 18:15:26,919 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:15:26 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:15:27,406 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-05 18:15:27,410 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-05 18:15:29,950 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:80)
+开始------------------------------
+
+
+[INFO ] 2018-08-05 18:15:30,028 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:82)
+main: 0 开始创建...
+
+
+[INFO ] 2018-08-05 18:15:30,033 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:87)
+结束------------------------------
+
+
+[INFO ] 2018-08-05 18:15:30,100 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:50)
+Thread-2: 0 开始等待...
+
+
+[INFO ] 2018-08-05 18:15:30,107 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:52)
+Thread-2: 0 开始运行...
+
+
+[INFO ] 2018-08-05 18:15:30,145 method:org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:960)
+Closing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:15:26 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:17:06,525 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-05 18:17:06,599 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7c16905e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a2d45ba, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2a5ca609, org.springframework.test.context.support.DirtiesContextTestExecutionListener@20e2cbe0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@68be2bc2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@28feb3fa]
+
+
+[INFO ] 2018-08-05 18:17:06,913 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-05 18:17:07,280 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-05 18:17:07,335 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-05 18:17:07,596 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-05 18:17:07,798 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:17:07 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:17:08,201 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-05 18:17:08,202 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-05 18:17:10,824 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:80)
+开始------------------------------
+
+
+[INFO ] 2018-08-05 18:17:10,871 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:82)
+main: 0 开始创建...
+
+
+[INFO ] 2018-08-05 18:17:10,875 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:87)
+结束------------------------------
+
+
+[INFO ] 2018-08-05 18:17:10,936 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:50)
+Thread-2: 0 开始等待...
+
+
+[INFO ] 2018-08-05 18:17:10,953 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:52)
+Thread-2: 0 开始运行...
+
+
+[INFO ] 2018-08-05 18:17:10,993 method:org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:960)
+Closing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:17:07 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:18:15,837 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-05 18:18:15,918 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5419f379, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@7dc7cbad, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@d2cc05a, org.springframework.test.context.support.DirtiesContextTestExecutionListener@4f933fd1, org.springframework.test.context.transaction.TransactionalTestExecutionListener@548a9f61, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@1753acfe]
+
+
+[INFO ] 2018-08-05 18:18:16,236 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-05 18:18:16,597 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-05 18:18:16,706 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-05 18:18:16,920 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-05 18:18:17,184 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@1ce92674: startup date [Sun Aug 05 18:18:17 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:18:17,620 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-05 18:18:17,622 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-05 18:18:20,162 method:cn.wind.service.impl.ItemServiceImpl.getItemById(ItemServiceImpl.java:51)
+==================get from cache============================
+
+
+[INFO ] 2018-08-05 18:18:20,952 method:cn.wind.controller.ItemControllerTest.testGetItemById(ItemControllerTest.java:72)
+936920==========================================================================
+
+
+[INFO ] 2018-08-05 18:18:20,953 method:cn.wind.controller.ItemControllerTest.testGetItemById(ItemControllerTest.java:73)
+----------------------------------hello-------------------------------------------
+
+
+[INFO ] 2018-08-05 18:18:20,961 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:80)
+开始------------------------------
+
+
+[INFO ] 2018-08-05 18:18:20,962 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:82)
+main: 0 开始创建...
+
+
+[INFO ] 2018-08-05 18:18:20,964 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:87)
+结束------------------------------
+
+
+[INFO ] 2018-08-05 18:18:20,968 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:50)
+Thread-2: 0 开始等待...
+
+
+[INFO ] 2018-08-05 18:18:20,971 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:52)
+Thread-2: 0 开始运行...
+
+
+[INFO ] 2018-08-05 18:18:20,975 method:org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:960)
+Closing org.springframework.context.support.GenericApplicationContext@1ce92674: startup date [Sun Aug 05 18:18:17 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:18:42,336 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-05 18:18:42,425 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7c16905e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a2d45ba, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2a5ca609, org.springframework.test.context.support.DirtiesContextTestExecutionListener@20e2cbe0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@68be2bc2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@28feb3fa]
+
+
+[INFO ] 2018-08-05 18:18:42,754 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-05 18:18:43,122 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-05 18:18:43,188 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-05 18:18:43,473 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-05 18:18:43,665 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:18:43 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:18:44,093 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-05 18:18:44,095 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-05 18:18:46,658 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:80)
+开始------------------------------
+
+
+[INFO ] 2018-08-05 18:18:46,703 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:82)
+main: 0 开始创建...
+
+
+[INFO ] 2018-08-05 18:18:46,768 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:87)
+结束------------------------------
+
+
+[INFO ] 2018-08-05 18:18:46,842 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:50)
+Thread-2: 0 开始等待...
+
+
+[INFO ] 2018-08-05 18:18:46,844 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:52)
+Thread-2: 0 开始运行...
+
+
+[INFO ] 2018-08-05 18:18:46,870 method:org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:960)
+Closing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:18:43 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:24:25,933 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-05 18:24:26,013 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7c16905e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a2d45ba, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2a5ca609, org.springframework.test.context.support.DirtiesContextTestExecutionListener@20e2cbe0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@68be2bc2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@28feb3fa]
+
+
+[INFO ] 2018-08-05 18:24:26,333 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-05 18:24:26,693 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-05 18:24:26,802 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-05 18:24:27,068 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-05 18:24:27,270 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:24:27 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:24:27,692 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-05 18:24:27,707 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-05 18:24:30,458 method:cn.wind.service.impl.ItemServiceImpl.getItemById(ItemServiceImpl.java:51)
+==================get from cache============================
+
+
+[INFO ] 2018-08-05 18:24:30,719 method:cn.wind.service.impl.ItemServiceImpl.getItemById(ItemServiceImpl.java:69)
+==================get from db============================
+
+
+[INFO ] 2018-08-05 18:24:31,112 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:655)
+{dataSource-1} inited
+
+
+[INFO ] 2018-08-05 18:24:32,313 method:cn.wind.controller.ItemControllerTest.testGetItemById(ItemControllerTest.java:72)
+936920==========================================================================
+
+
+[INFO ] 2018-08-05 18:24:32,328 method:cn.wind.controller.ItemControllerTest.testGetItemById(ItemControllerTest.java:73)
+----------------------------------hello-------------------------------------------
+
+
+[INFO ] 2018-08-05 18:24:32,337 method:org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:960)
+Closing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:24:27 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:24:32,365 method:com.alibaba.druid.pool.DruidDataSource.close(DruidDataSource.java:1370)
+{dataSource-1} closed
+
+
+[INFO ] 2018-08-05 18:25:36,399 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-05 18:25:36,507 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7c16905e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a2d45ba, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2a5ca609, org.springframework.test.context.support.DirtiesContextTestExecutionListener@20e2cbe0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@68be2bc2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@28feb3fa]
+
+
+[INFO ] 2018-08-05 18:25:36,820 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-05 18:25:37,208 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-05 18:25:37,310 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-05 18:25:37,552 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-05 18:25:37,774 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:25:37 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:25:38,213 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-05 18:25:38,217 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-05 18:25:41,454 method:cn.wind.service.impl.ItemServiceImpl.getItemById(ItemServiceImpl.java:53)
+==================get from cache============================
+
+
+[INFO ] 2018-08-05 18:25:42,085 method:cn.wind.controller.ItemControllerTest.testGetItemById(ItemControllerTest.java:72)
+936920==========================================================================
+
+
+[INFO ] 2018-08-05 18:25:42,085 method:cn.wind.controller.ItemControllerTest.testGetItemById(ItemControllerTest.java:73)
+----------------------------------hello-------------------------------------------
+
+
+[INFO ] 2018-08-05 18:25:42,093 method:org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:960)
+Closing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:25:37 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:26:20,466 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-05 18:26:20,537 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7c16905e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a2d45ba, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2a5ca609, org.springframework.test.context.support.DirtiesContextTestExecutionListener@20e2cbe0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@68be2bc2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@28feb3fa]
+
+
+[INFO ] 2018-08-05 18:26:21,158 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-05 18:26:21,673 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-05 18:26:21,788 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-05 18:26:22,053 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-05 18:26:22,273 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:26:22 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-05 18:26:22,702 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-05 18:26:22,708 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-05 18:26:25,313 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:80)
+开始------------------------------
+
+
+[INFO ] 2018-08-05 18:26:25,316 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:82)
+main: 0 开始创建...
+
+
+[INFO ] 2018-08-05 18:26:25,317 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:87)
+结束------------------------------
+
+
+[INFO ] 2018-08-05 18:26:25,321 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:50)
+Thread-2: 0 开始等待...
+
+
+[INFO ] 2018-08-05 18:26:25,321 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:52)
+Thread-2: 0 开始运行...
+
+
+[INFO ] 2018-08-05 18:26:25,376 method:org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:960)
+Closing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Sun Aug 05 18:26:22 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-06 16:56:30,702 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-06 16:56:30,865 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7c16905e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a2d45ba, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2a5ca609, org.springframework.test.context.support.DirtiesContextTestExecutionListener@20e2cbe0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@68be2bc2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@28feb3fa]
+
+
+[INFO ] 2018-08-06 16:56:32,299 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-06 16:56:33,412 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-06 16:56:33,612 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-06 16:56:34,207 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-06 16:56:34,714 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Mon Aug 06 16:56:34 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-06 16:56:36,302 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-06 16:56:36,304 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-06 16:56:48,857 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:80)
+开始------------------------------
+
+
+[INFO ] 2018-08-06 16:56:48,858 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:82)
+main: 0 开始创建...
+
+
+[INFO ] 2018-08-06 16:56:48,861 method:cn.wind.controller.ItemControllerTest.testGetItemByIdCache(ItemControllerTest.java:87)
+结束------------------------------
+
+
+[INFO ] 2018-08-06 16:56:48,877 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:50)
+Thread-2: 0 开始等待...
+
+
+[INFO ] 2018-08-06 16:56:48,879 method:cn.wind.MultiThread.MultiThreadAccess.run(MultiThreadAccess.java:52)
+Thread-2: 0 开始运行...
+
+
+[INFO ] 2018-08-06 16:56:48,915 method:org.springframework.context.support.AbstractApplicationContext.doClose(AbstractApplicationContext.java:960)
+Closing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Mon Aug 06 16:56:34 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-07 10:25:02,933 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getDefaultTestExecutionListenerClassNames(AbstractTestContextBootstrapper.java:259)
+Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener]
+
+
+[INFO ] 2018-08-07 10:25:03,041 method:org.springframework.test.context.support.AbstractTestContextBootstrapper.getTestExecutionListeners(AbstractTestContextBootstrapper.java:185)
+Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@7c16905e, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a2d45ba, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@2a5ca609, org.springframework.test.context.support.DirtiesContextTestExecutionListener@20e2cbe0, org.springframework.test.context.transaction.TransactionalTestExecutionListener@68be2bc2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@28feb3fa]
+
+
+[INFO ] 2018-08-07 10:25:03,405 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-dao.xml]
+
+
+[INFO ] 2018-08-07 10:25:03,936 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-redis.xml]
+
+
+[INFO ] 2018-08-07 10:25:04,131 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-service.xml]
+
+
+[INFO ] 2018-08-07 10:25:04,453 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\spring\applicationContext-trans.xml]
+
+
+[INFO ] 2018-08-07 10:25:04,755 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:578)
+Refreshing org.springframework.context.support.GenericApplicationContext@31a5c39e: startup date [Tue Aug 07 10:25:04 CST 2018]; root of context hierarchy
+
+
+[INFO ] 2018-08-07 10:25:05,519 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\db.properties]
+
+
+[INFO ] 2018-08-07 10:25:05,523 method:org.springframework.core.io.support.PropertiesLoaderSupport.loadProperties(PropertiesLoaderSupport.java:172)
+Loading properties file from file [F:\eclipseWorkspace2\w-ssm\target\test-classes\conf\resources.properties]
+
+
+[INFO ] 2018-08-07 10:25:45,363 method:cn.wind.service.impl.ItemServiceImpl.getItemById(ItemServiceImpl.java:69)
+==================get from db============================
+
+
+[INFO ] 2018-08-07 10:25:45,887 method:com.alibaba.druid.pool.DruidDataSource.init(DruidDataSource.java:655)
+{dataSource-1} inited
+
+
+[ERROR] 2018-08-07 10:25:48,336 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:25:50,355 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:25:52,401 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:25:54,438 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:25:56,471 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:25:58,518 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:26:00,552 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:26:02,558 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:26:04,626 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:26:06,667 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:26:08,713 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
+
+
+[ERROR] 2018-08-07 10:26:10,744 method:com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1846)
+create connection error
+com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1137)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:355)
+	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2490)
+	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2527)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2309)
+	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:834)
+	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:408)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:419)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:344)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1375)
+	at com.alibaba.druid.pool.DruidAbstractDataSource.createPhysicalConnection(DruidAbstractDataSource.java:1431)
+	at com.alibaba.druid.pool.DruidDataSource$CreateConnectionThread.run(DruidDataSource.java:1844)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.<init>(Socket.java:434)
+	at java.net.Socket.<init>(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:258)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:305)
+	... 15 more
