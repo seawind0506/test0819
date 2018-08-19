@@ -1,0 +1,19 @@
+问题描述1：删除本地文件后，想从远程仓库中从新Pull最新版文件。Git提示：up-to-date，但未得到删除的文件。
+解决办法：
+原因：当前本地库处于另一个分支中，需将本分支发Head重置至master.
+方法一：
+git checkout master 
+git reset –hard
+方法二：
+git 强行pull并覆盖本地文件
+git fetch --all  
+git reset --hard origin/master 
+git pull
+问题描述2：本地文件推送到github报错，failed to push some refs to git… ! [rejected]   master -> master (non-fast-forward)。
+解决办法：
+原因： github中的README.md文件不在本地代码目录中
+可以通过如下命令进行代码合并【注：pull=fetch+merge]
+git pull --rebase origin master
+此时再执行语句
+ git push -u origin master
+即可完成代码上传到github
